@@ -29,6 +29,7 @@ This repository contains all of my leetcode submissions. The purpose is to track
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ValeskaLim/leetcode-submission/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/ValeskaLim/leetcode-submission/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/ValeskaLim/leetcode-submission/tree/master/0268-missing-number) |
 ## Binary Search
