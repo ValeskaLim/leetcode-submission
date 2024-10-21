@@ -19,6 +19,7 @@ This repository contains all of my leetcode submissions. The purpose is to track
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ValeskaLim/leetcode-submission/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/ValeskaLim/leetcode-submission/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@ This repository contains all of my leetcode submissions. The purpose is to track
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/ValeskaLim/leetcode-submission/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/ValeskaLim/leetcode-submission/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
