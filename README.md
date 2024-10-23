@@ -21,10 +21,12 @@ This repository contains all of my leetcode submissions. The purpose is to track
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ValeskaLim/leetcode-submission/tree/master/0066-plus-one) |
+| [0217-contains-duplicate](https://github.com/ValeskaLim/leetcode-submission/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ValeskaLim/leetcode-submission/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ValeskaLim/leetcode-submission/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ValeskaLim/leetcode-submission/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -43,6 +45,7 @@ This repository contains all of my leetcode submissions. The purpose is to track
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/ValeskaLim/leetcode-submission/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ValeskaLim/leetcode-submission/tree/master/0268-missing-number) |
 ## Trie
 |  |
