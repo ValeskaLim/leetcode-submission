@@ -63,4 +63,5 @@ This repository contains all of my leetcode submissions. The purpose is to track
 | [0182-duplicate-emails](https://github.com/ValeskaLim/leetcode-submission/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/ValeskaLim/leetcode-submission/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/ValeskaLim/leetcode-submission/tree/master/0196-delete-duplicate-emails) |
+| [0595-big-countries](https://github.com/ValeskaLim/leetcode-submission/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
