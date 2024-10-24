@@ -55,4 +55,8 @@ This repository contains all of my leetcode submissions. The purpose is to track
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ValeskaLim/leetcode-submission/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ValeskaLim/leetcode-submission/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
