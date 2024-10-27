@@ -15,6 +15,7 @@ This repository contains all of my leetcode submissions. The purpose is to track
 | [0014-longest-common-prefix](https://github.com/ValeskaLim/leetcode-submission/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ValeskaLim/leetcode-submission/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/ValeskaLim/leetcode-submission/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/ValeskaLim/leetcode-submission/tree/master/0412-fizz-buzz) |
 ## String Matching
 |  |
 | ------- |
@@ -36,6 +37,7 @@ This repository contains all of my leetcode submissions. The purpose is to track
 | [0007-reverse-integer](https://github.com/ValeskaLim/leetcode-submission/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/ValeskaLim/leetcode-submission/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/ValeskaLim/leetcode-submission/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/ValeskaLim/leetcode-submission/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,4 +68,8 @@ This repository contains all of my leetcode submissions. The purpose is to track
 | [0183-customers-who-never-order](https://github.com/ValeskaLim/leetcode-submission/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/ValeskaLim/leetcode-submission/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/ValeskaLim/leetcode-submission/tree/master/0595-big-countries) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/ValeskaLim/leetcode-submission/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
