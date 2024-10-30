@@ -8,12 +8,14 @@ This repository contains all of my leetcode submissions. The purpose is to track
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ValeskaLim/leetcode-submission/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/ValeskaLim/leetcode-submission/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ValeskaLim/leetcode-submission/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ValeskaLim/leetcode-submission/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ValeskaLim/leetcode-submission/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/ValeskaLim/leetcode-submission/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ValeskaLim/leetcode-submission/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/ValeskaLim/leetcode-submission/tree/master/0412-fizz-buzz) |
 ## String Matching
