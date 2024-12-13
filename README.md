@@ -1,6 +1,10 @@
-# leetcode-submission
+# Leetcode Submission
 
-This repository contains all of my leetcode submissions. The purpose is to track my progress. Created using <a href='https://github.com/arunbhardwaj/LeetHub-2.0'>Leethub-2.0</a>
+This repository contains all of my leetcode submissions. The purpose is to track my progress. Created using <a href='https://github.com/arunbhardwaj/LeetHub-2.0'>LeetHub-2.0</a>
+
+Mostly using Java to solve problems. because I like Java :D (forced)
+
+UPDATE: Will be using LeetHub-3.0 as LeetHub-2.0 is not compatible with Leetcode anymore since the latest update. LeetHub-3.0 <a href='https://github.com/raphaelheinz/LeetHub-3.0'>LeetHub-3.0</a>
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
