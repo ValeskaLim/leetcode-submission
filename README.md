@@ -26,11 +26,13 @@ This repository contains all of my leetcode submissions. The purpose is to track
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ValeskaLim/leetcode-submission/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/ValeskaLim/leetcode-submission/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ValeskaLim/leetcode-submission/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ValeskaLim/leetcode-submission/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ValeskaLim/leetcode-submission/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ValeskaLim/leetcode-submission/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ValeskaLim/leetcode-submission/tree/master/0268-missing-number) |
 ## Math
@@ -51,6 +53,7 @@ This repository contains all of my leetcode submissions. The purpose is to track
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ValeskaLim/leetcode-submission/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ValeskaLim/leetcode-submission/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ValeskaLim/leetcode-submission/tree/master/0268-missing-number) |
 ## Trie
@@ -74,4 +77,12 @@ This repository contains all of my leetcode submissions. The purpose is to track
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/ValeskaLim/leetcode-submission/tree/master/0412-fizz-buzz) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ValeskaLim/leetcode-submission/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ValeskaLim/leetcode-submission/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
