@@ -13,6 +13,7 @@ UPDATE: Will be using LeetHub-3.0 as LeetHub-2.0 is not compatible with Leetcode
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ValeskaLim/leetcode-submission/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/ValeskaLim/leetcode-submission/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/ValeskaLim/leetcode-submission/tree/main/0202-happy-number/) | Easy |
 | [0344-reverse-string](https://github.com/ValeskaLim/leetcode-submission/tree/master/0344-reverse-string) |
 ## String
 | Problem Name | Difficulty |
@@ -37,6 +38,7 @@ UPDATE: Will be using LeetHub-3.0 as LeetHub-2.0 is not compatible with Leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ValeskaLim/leetcode-submission/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/ValeskaLim/leetcode-submission/tree/main/0202-happy-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/ValeskaLim/leetcode-submission/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ValeskaLim/leetcode-submission/tree/master/0268-missing-number) |
 ## Math
@@ -45,6 +47,7 @@ UPDATE: Will be using LeetHub-3.0 as LeetHub-2.0 is not compatible with Leetcode
 | [0007-reverse-integer](https://github.com/ValeskaLim/leetcode-submission/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/ValeskaLim/leetcode-submission/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ValeskaLim/leetcode-submission/tree/main/0069-sqrtx/) | Easy |
+| [0202-happy-number](https://github.com/ValeskaLim/leetcode-submission/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/ValeskaLim/leetcode-submission/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ValeskaLim/leetcode-submission/tree/master/0412-fizz-buzz) |
 ## Binary Search
