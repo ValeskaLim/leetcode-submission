@@ -9,68 +9,70 @@ UPDATE: Will be using LeetHub-3.0 as LeetHub-2.0 is not compatible with Leetcode
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ValeskaLim/leetcode-submission/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/ValeskaLim/leetcode-submission/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ValeskaLim/leetcode-submission/tree/master/0344-reverse-string) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/ValeskaLim/leetcode-submission/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ValeskaLim/leetcode-submission/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/ValeskaLim/leetcode-submission/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ValeskaLim/leetcode-submission/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/ValeskaLim/leetcode-submission/tree/master/0412-fizz-buzz) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ValeskaLim/leetcode-submission/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0066-plus-one](https://github.com/ValeskaLim/leetcode-submission/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/ValeskaLim/leetcode-submission/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ValeskaLim/leetcode-submission/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ValeskaLim/leetcode-submission/tree/master/0268-missing-number) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/ValeskaLim/leetcode-submission/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ValeskaLim/leetcode-submission/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ValeskaLim/leetcode-submission/tree/master/0268-missing-number) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0007-reverse-integer](https://github.com/ValeskaLim/leetcode-submission/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/ValeskaLim/leetcode-submission/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/ValeskaLim/leetcode-submission/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/ValeskaLim/leetcode-submission/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ValeskaLim/leetcode-submission/tree/master/0412-fizz-buzz) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/ValeskaLim/leetcode-submission/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/ValeskaLim/leetcode-submission/tree/master/0268-missing-number) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0268-missing-number](https://github.com/ValeskaLim/leetcode-submission/tree/master/0268-missing-number) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/ValeskaLim/leetcode-submission/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ValeskaLim/leetcode-submission/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/ValeskaLim/leetcode-submission/tree/master/0268-missing-number) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/ValeskaLim/leetcode-submission/tree/master/0014-longest-common-prefix) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ValeskaLim/leetcode-submission/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0175-combine-two-tables](https://github.com/ValeskaLim/leetcode-submission/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/ValeskaLim/leetcode-submission/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/ValeskaLim/leetcode-submission/tree/master/0182-duplicate-emails) |
@@ -78,15 +80,15 @@ UPDATE: Will be using LeetHub-3.0 as LeetHub-2.0 is not compatible with Leetcode
 | [0196-delete-duplicate-emails](https://github.com/ValeskaLim/leetcode-submission/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/ValeskaLim/leetcode-submission/tree/master/0595-big-countries) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0412-fizz-buzz](https://github.com/ValeskaLim/leetcode-submission/tree/master/0412-fizz-buzz) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/ValeskaLim/leetcode-submission/tree/master/0169-majority-element) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/ValeskaLim/leetcode-submission/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
